@@ -1,0 +1,24 @@
+myObj =
+{
+   "carModel":"urus",
+   "carBrand":"lamborghini",
+   "seats":[
+      "seatFrontLeft": {
+         "material":"leather",
+         "color":"black"
+      },
+      "seatFrontRight": {
+         "material":"leather",
+         "color":"black"
+      },
+      "seatBackLeft": {
+         "material":"leather",
+         "color":"black"
+      },
+      "seatBackRight": {
+         "material":"leather",
+         "color":"black"
+      }
+   ],
+   "engineCapacity":4
+};
